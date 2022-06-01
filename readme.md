@@ -30,9 +30,8 @@ When the user utilizes the calendar, they should be able to distinguish their sc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: git@github.com:liliankim/TimetoAPI.git
+- Live Site URL:  https://liliankim.github.io/TimetoAPI/
 
 ### Built with
 
