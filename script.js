@@ -1,6 +1,8 @@
 var day = moment().format('dddd, MMMM Do YYYY');
 
 var hoursNow = moment().hour();
+ar userInput;
+$('#currentDay').html(day);
 
 function background(){
 TimeBlocks.each(function()
